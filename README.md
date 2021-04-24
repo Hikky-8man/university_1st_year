@@ -2,7 +2,7 @@
 my program's from my first year in university
 
 These program's are written in a language called processing
-which was the primary lnguage we used for the first half of my first year in 
+which was the primary language we used for the first half of my first year in 
 university. These program's are the portfolio tasks (tasks assigned 
 to the students to help them understant the princibles taught in the 
 lecture) I was assigned during that time 
